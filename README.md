@@ -1,5 +1,5 @@
 #complete cookbook for wordpress
-- apache
+- nginx
 - mysql
 - php-fpm
 - wordpress
